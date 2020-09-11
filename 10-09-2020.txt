@@ -1,0 +1,2 @@
+Documentación de Git:
+Git nos ayuda a trabajar en un proyecto mediante gestiones de ramas.
