@@ -1,2 +1,1 @@
 Esta rama se utilizará para gestionar las apis.
-Y trabajaremos dos personas en esta rama.
